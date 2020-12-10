@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
                 .setAudioAttributes(audioAttributes)
                 .build();
 
-        sound = soundPool.load(this, R.raw.welcome, 1);
+        sound = soundPool.load(this, R.raw.custom, 1);
 
     }
 

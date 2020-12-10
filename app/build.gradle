@@ -45,3 +45,8 @@ sceneform.asset('sampledata/58_Movement_LODa_r01.fbx',
         'default',
         'sampledata/58_Movement_LODa_r01.sfa',
         'src/main/assets/skeletal')
+
+sceneform.asset('sampledata/men/rp_nathan_animated_003_walking.fbx',
+        'default',
+        'sampledata/men/rp_nathan_animated_003_walking.sfa',
+        'src/main/assets/walking')
