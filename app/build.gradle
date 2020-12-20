@@ -36,10 +36,7 @@ dependencies {
 }
 
 
-sceneform.asset('sampledata/Polonia_LowRez.glb',
-        'default',
-        'sampledata/Polonia_LowRez.sfa',
-        'src/main/assets/female')
+
 
 sceneform.asset('sampledata/58_Movement_LODa_r01.fbx',
         'default',
@@ -50,3 +47,15 @@ sceneform.asset('sampledata/men/rp_nathan_animated_003_walking.fbx',
         'default',
         'sampledata/men/rp_nathan_animated_003_walking.sfa',
         'src/main/assets/walking')
+
+
+
+sceneform.asset('sampledata/female/rp_sophia_animated_003_idling.fbx',
+        'default',
+        'sampledata/female/rp_sophia_animated_003_idling.sfa',
+        'src/main/assets/female')
+
+sceneform.asset('sampledata/dancing/rp_manuel_animated_001_dancing.fbx',
+        'default',
+        'sampledata/dancing/rp_manuel_animated_001_dancing.sfa',
+        'src/main/assets/dancing')
